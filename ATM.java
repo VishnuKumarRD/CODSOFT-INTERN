@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class ATM {
 
     double balance;
